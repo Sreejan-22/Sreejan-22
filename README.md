@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sreejan-22
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently building full stack projects in MERN stack
-- 💞️ I’m looking for internships
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sreejanchaudhury17a9a1164), [Email](mailto:sreejan147@gmail.com)
 
 <br />
