@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sreejan
+- 👋 Hi, I’m **Sreejan**
 - 👀 My interest lies in Full Stack Web Development
 - 🌱 I’m currently building full stack projects in MERN stack
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sreejanchaudhury), [Email](mailto:sreejan147@gmail.com)
