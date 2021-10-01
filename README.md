@@ -1,6 +1,7 @@
 - 👋 Hi, I’m **Sreejan**
 - 👀 My interest lies in Full Stack Web Development
 - 🌱 I’m currently building full stack projects in MERN stack
+- 📝 I write blogs [here](https://sreejan.hashnode.dev/) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sreejanchaudhury), [Email](mailto:sreejan147@gmail.com)
 
 <br />
