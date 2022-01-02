@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Sreejan**
 - 👀 My interest lies in Full Stack Web Development
-- :man_technologist: Check out [My Portfolio](https://sreejan.netlify.app/)
+- :man_technologist: Check out [My Portfolio](https://sreejan.xyz/)
 - 📝 I write blogs [here](https://sreejan.hashnode.dev/) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sreejanchaudhury), [Email](mailto:sreejan147@gmail.com)
 
