@@ -6,7 +6,7 @@
 
 <br />
 
-<img align="left" alt="Sreejan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sreejan-22&show_icons=true&hide_border=true">
+<img align="left" alt="Sreejan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sreejan-22&show_icons=true&include_all_commits=true&hide_border=true">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sreejan-22)](https://git.io/streak-stats)
 <!---
